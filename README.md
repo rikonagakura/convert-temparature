@@ -2,7 +2,7 @@
 
 ## Overview
 
-Practise Javascript - Code for converting temperature scales as a practise
+Practise Javascript - Code for converting temperature scales
 
 ## Requirement
 
