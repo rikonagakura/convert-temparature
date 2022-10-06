@@ -1,4 +1,4 @@
-# convert_temparature
+# Convert temparature
 
 ## Overview
 
